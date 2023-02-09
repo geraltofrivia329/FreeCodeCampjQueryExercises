@@ -1,0 +1,2 @@
+# FreeCodeCampjQueryExercises
+FreeCodeCampjQueryExercises
